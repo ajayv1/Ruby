@@ -1,5 +1,9 @@
 {
-  "skusArr": [
+  "status": {
+    "message": "",
+    "code": 0
+  },
+  "skuList": [
     "7002245-RED-S",
     "7002245-RED-M",
     "7002246-PNK-L",
