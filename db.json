@@ -3,11 +3,29 @@
     "message": "",
     "code": 0
   },
-  "skuList": [
-    "7002245-RED-S",
-    "7002245-RED-M",
-    "7002246-PNK-L",
-    "7002246-PNK-XL",
-    "7002247-PNK-S"
-  ]
+  "active_items": [
+            {
+                "id": 24350907,
+                "sku": "7002271-BLK-S",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "order_id": 1,
+                "date_added": "2020-01-14 07:53:01.0",
+                "last_updated_time": "2020-01-14 07:53:53.0"
+            },
+            {
+                "id": 24350908,
+                "sku": "7002225-RED-L",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "date_added": "2020-01-14 07:55:37.0",
+                "last_updated_time": "2020-01-14 07:55:37.0"
+            }
+        ]
 }
