@@ -3,7 +3,12 @@
     "message": "",
     "code": 0
   },
-  "active_items": [
+  "active_closet": {
+    "object_positions": {
+      "order": "ASC",
+      "order_by": "date_shipped"
+    },
+    "active_items": [
             {
                 "id": 24350907,
                 "sku": "7002271-BLK-S",
@@ -28,4 +33,5 @@
                 "last_updated_time": "2020-01-14 07:55:37.0"
             }
         ]
+  }
 }
