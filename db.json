@@ -31,6 +31,52 @@
                 "state_id": 2,
                 "date_added": "2020-01-14 07:55:37.0",
                 "last_updated_time": "2020-01-14 07:55:37.0"
+            },
+            {
+                "id": 24350906,
+                "sku": "7002272-BLK-S",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "order_id": 1,
+                "date_added": "2020-01-14 07:53:01.0",
+                "last_updated_time": "2020-01-14 07:53:53.0"
+            },
+            {
+                "id": 24350904,
+                "sku": "7002225-RED-XL",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "date_added": "2020-01-14 07:55:37.0",
+                "last_updated_time": "2020-01-14 07:55:37.0"
+            },
+            {
+                "id": 24350806,
+                "sku": "7002262-RED-S",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "order_id": 1,
+                "date_added": "2020-01-14 07:53:01.0",
+                "last_updated_time": "2020-01-14 07:53:53.0"
+            },
+            {
+                "id": 24350804,
+                "sku": "7002245-YLW-XL",
+                "state": "At_Store",
+                "store_id": 1,
+                "user_uuid": "e7dcc135-d2e5-3370-8d9a-c5291614b7c5",
+                "source_id": 1,
+                "state_id": 2,
+                "date_added": "2020-01-14 07:55:37.0",
+                "last_updated_time": "2020-01-14 07:55:37.0"
             }
         ]
   }
