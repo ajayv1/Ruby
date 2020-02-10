@@ -3,7 +3,7 @@
         "code": 0, 
         "message": "Successful" 
     },
-    "reservations":[{
+    "skuReservationDetailsList":[{
         "id": "2490390",
         "userUuid": "5c00780b-a69e-33a5-95a8-d5f8bea9fe08",
         "sku": "7002201-BLK-L",
