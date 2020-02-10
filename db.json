@@ -1,25 +1,25 @@
 {
   "status": {
-        "code": 0, // int - result. 0 is success.
-        "message": "Successful" // string - error message on failure.
+        "code": 0, 
+        "message": "Successful" 
     },
     "reservations":[{
         "id": "2490390",
         "userUuid": "5c00780b-a69e-33a5-95a8-d5f8bea9fe08",
         "sku": "7002201-BLK-L",
-        "expiryTime": "2020-02-10 10:54:34.0" //EST time
+        "expiryTime": "2020-02-10 10:54:34.0" 
     },
     {
         "id": "2490391",
         "userUuid": "5c00780b-a69e-33a5-95a8-d5f8bea9fe08",
         "sku": "7002201-BLK-M",
-        "expiryTime": "2020-02-10 10:54:34.0" //EST time
+        "expiryTime": "2020-02-10 10:54:34.0" 
     },
     {
         "id": "2490392",
         "userUuid": "5c00780b-a69e-33a5-95a8-d5f8bea9fe08",
         "sku": "7002201-BLK-LLM",
-        "expiryTime": "2020-02-10 10:54:34.0" //EST time
+        "expiryTime": "2020-02-10 10:54:34.0" 
     }],
-    "expiryTime": "2020-02-10 10:54:34.0" //EST time
+    "expiryTime": "2020-02-10 10:54:34.0" 
 }
